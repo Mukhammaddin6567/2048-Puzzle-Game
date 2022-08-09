@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2048 Puzzle Game</string>
+    <string name="text_current_score">Score\n%1$d</string>
+    <string name="text_best_result">Best score\n%1$d</string>
+    <string name="text_restart">Restart</string>
+    <string name="text_undo">undo</string>
+    <string name="text_2048">2048</string>
+    <string name="text_dialog_restart">Restart game?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="text_dialog_game_over">Game over!</string>
+    <string name="text_dialog_win">You win!</string>
+    <string name="text_home">Home</string>
+</resources>
